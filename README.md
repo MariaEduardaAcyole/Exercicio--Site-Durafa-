@@ -1,6 +1,6 @@
 ﻿# 2.SITE DURAFA
  ## Site utilizando html
- -Table
+ - Table
  - img
  - links
  
