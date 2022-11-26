@@ -1,2 +1,6 @@
-﻿# Exercicios Java Script 
- ## 2.SITE DURAFA 
+﻿# 2.SITE DURAFA
+ ## Site utilizando html
+ -Table
+ - img
+ - links
+ 
